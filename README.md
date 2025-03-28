@@ -211,3 +211,6 @@ This phase covers identifying and correcting errors in the HR dataset, as well a
 ![Screenshot 2025-03-27 131442](https://github.com/user-attachments/assets/10f56167-b865-4166-9de5-7796ffd9d94e) screenshot 18
 
 ![Screenshot 2025-03-27 131735](https://github.com/user-attachments/assets/63a00073-a477-4f6b-aa7f-ec016a3c3797) screenshot 19
+
+### Course completion Badge 
+![Badge](https://github.com/user-attachments/assets/348dfeb9-8343-421c-9fbe-82bfa352685c)
